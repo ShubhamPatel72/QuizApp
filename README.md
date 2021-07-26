@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshot of apps :
-![](images/ss1.png)
-![](images/ss2.png)
-![](images/ss3.png)
+![](images\ss1.png)
+![](D:\My Codes\Flutter\quizzler\images\ss2.png)
+![](D:\My Codes\Flutter\quizzler\images\ss3.png)
